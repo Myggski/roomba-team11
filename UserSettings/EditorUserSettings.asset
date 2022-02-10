@@ -5,8 +5,50 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 575755575c515e5d5e5f0f2113275a44434e4d797f7e7161792d186be0e53568
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 0600015551540f035a0b5e7b45200844434e1b2c747e25657f701c66bab8646d
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5754005656070d09540a097441730b44424f4b7f7a2e72357d704566b1b6326b
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 570451540305080e0c5d597113250e4443151a7d7a7a74677a7b4c61bae36368
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5a07075407010c0d5a585a7115725944414f1b722d7820647d7f4831b3e36269
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 530104565505590b5d5e5c7240730f404647487a7c7876607d794d63b2b06468
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5008575f50055d5a0c0a0f7211275e4413151c2f2e7b27357c704d31b4e26d69
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 0755005457055d0e095a597a4122084445154a2b7f7d25327d2b4b32b4b66d3b
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 50040d5050055c5e555d5e2414720d44144f1d2c2f2c7368792f4531b3b96c68
+      flags: 0
     RecentlyUsedScenePath-0:
-      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
+      value: 22424703114646642a0f01275f105c1518120b6501090f1e1e0a381dc7ae2136ebf32f
+      flags: 0
+    vcPerforcePassword:
+      value: 30505d470a475b0a
+      flags: 1
+    vcPerforceServer:
+      value: 52011a54551b58155b545d744675
+      flags: 0
+    vcPerforceUsername:
+      value: 175e5907161b1e5a0102052c
+      flags: 0
+    vcPerforceWorkspace:
+      value: 2576065748733d642a3e5e1d24265e1d4746271e1b
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -16,9 +58,13 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 3
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
   m_VCProjectOverlayIcons: 1
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
