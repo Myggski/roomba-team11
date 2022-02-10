@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/StyleSheets/common-button.uss?fileID=7433441132597879392&amp;guid=dd27b8e0141389649ad8f45cfbc5bb49&amp;type=3#common-button" />
+    <ui:Button text="Back" display-tooltip-when-elided="true" name="BackButton" class="common-button" style="left: 1%; top: 94%; right: 0; bottom: 0; width: 8%; height: 3%; font-size: 20px; -unity-font-definition: bold; color: rgb(255, 255, 255);" />
+</ui:UXML>

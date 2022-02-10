@@ -1,0 +1,7 @@
+.CommonButton:hover {
+    font-size: 24px;
+    -unity-font: url('project://database/Assets/_Game/Components/UI/Fonts/RockoFLF-Bold.ttf?fileID=12800000&guid=9d084972976dffc45bb19fd2a3fc7637&type=3#RockoFLF-Bold');
+    width: 100%;
+    height: 100%;
+    background-image: url('project://database/Assets/_Game/Components/UI/Buttons/Blue%20with%20Highlight.png?fileID=2800000&guid=92eb84df7516c2149b6cc1c5e97b9e3a&type=3#Blue with Highlight');
+}

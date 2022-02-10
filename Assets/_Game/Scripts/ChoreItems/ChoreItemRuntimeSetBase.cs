@@ -1,0 +1,1 @@
+﻿public class ChoreItemRuntimeSet : RuntimeSet<ChoreItemBase> { }

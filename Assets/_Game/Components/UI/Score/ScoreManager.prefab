@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8033256613068616276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8033256613068616274}
+  - component: {fileID: 8033256613068616275}
+  - component: {fileID: 1936491801629567747}
+  m_Layer: 0
+  m_Name: ScoreManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8033256613068616274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8033256613068616276}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.8555677, y: 2.3478227, z: 0.96480924}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8033256613068616275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8033256613068616276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060e1ff80f1aa564699aca4be0d9016e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _ScoreMAXMultiplier: 10
+  _comboScoreBonusGrowth: 1
+  _comboScoreBonusLifeTime: 3
+  _comboScoreBonusShrink: 1
+  _comboScoreReduceBonusDelay: 3
+  _fintalScoreMAXMultiplier: 3
+  _avgCompleteTime: 180
+  _timeLeft: {fileID: 11400000, guid: 5d52ae367983af045bc5ef02ec01417a, type: 2}
+  scoreValueInformationList:
+  - Set: {fileID: 11400000, guid: cd14ad198377da1498e2386e0a4c5c45, type: 2}
+    ChorePoints: 10
+  - Set: {fileID: 11400000, guid: 1878bc05714b5e74fb060dae4d95d1a5, type: 2}
+    ChorePoints: 10
+  - Set: {fileID: 11400000, guid: a6d5006e0e1c0c14e87db38ce5fc40be, type: 2}
+    ChorePoints: 1
+  - Set: {fileID: 11400000, guid: c9a0491290dffc443b54af6bd018f3f8, type: 2}
+    ChorePoints: 1
+  - Set: {fileID: 11400000, guid: a5be8c8e447c9754d8cb21dce75b44d0, type: 2}
+    ChorePoints: 5
+  onChoreItemCompleted: {fileID: 11400000, guid: f2ef9b44125e9e143819d5a0cf4e2577, type: 2}
+  _UIDocument: {fileID: 0}
+--- !u!114 &1936491801629567747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8033256613068616276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184638b58d7f4737bbf70c38386fea01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Event: {fileID: 11400000, guid: f2ef9b44125e9e143819d5a0cf4e2577, type: 2}
+  Response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 8033256613068616275}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: UpdateChoreScore
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

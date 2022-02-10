@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerRightArm
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/arm.L.001
+    m_Weight: 0
+  - m_Path: Armature/arm.L.001/arm.L.001_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.002
+    m_Weight: 0
+  - m_Path: Armature/arm.L.002/arm.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.003
+    m_Weight: 0
+  - m_Path: Armature/arm.L.003/arm.L.003_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.004
+    m_Weight: 0
+  - m_Path: Armature/arm.L.004/arm.L.004_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.005
+    m_Weight: 0
+  - m_Path: Armature/arm.L.005/arm.L.005_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.006
+    m_Weight: 0
+  - m_Path: Armature/arm.L.006/arm.L.006_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.007
+    m_Weight: 0
+  - m_Path: Armature/arm.L.007/arm.L.007_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.008
+    m_Weight: 0
+  - m_Path: Armature/arm.L.008/arm.L.008_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.009
+    m_Weight: 0
+  - m_Path: Armature/arm.L.009/arm.L.009_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.010
+    m_Weight: 0
+  - m_Path: Armature/arm.L.010/arm.L.010_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.011
+    m_Weight: 0
+  - m_Path: Armature/arm.L.011/arm.L.011_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.012
+    m_Weight: 0
+  - m_Path: Armature/arm.L.012/arm.L.012_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.013
+    m_Weight: 0
+  - m_Path: Armature/arm.L.013/arm.L.013_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.014
+    m_Weight: 0
+  - m_Path: Armature/arm.L.014/arm.L.014_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.015
+    m_Weight: 0
+  - m_Path: Armature/arm.L.015/arm.L.015_end
+    m_Weight: 0
+  - m_Path: Armature/arm.L.016
+    m_Weight: 0
+  - m_Path: Armature/arm.L.016/arm.L.016_end
+    m_Weight: 0
+  - m_Path: Armature/arm.R.001
+    m_Weight: 1
+  - m_Path: Armature/arm.R.001/arm.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.002
+    m_Weight: 1
+  - m_Path: Armature/arm.R.002/arm.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.003
+    m_Weight: 1
+  - m_Path: Armature/arm.R.003/arm.R.003_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.004
+    m_Weight: 1
+  - m_Path: Armature/arm.R.004/arm.R.004_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.005
+    m_Weight: 1
+  - m_Path: Armature/arm.R.005/arm.R.005_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.006
+    m_Weight: 1
+  - m_Path: Armature/arm.R.006/arm.R.006_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.007
+    m_Weight: 1
+  - m_Path: Armature/arm.R.007/arm.R.007_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.008
+    m_Weight: 1
+  - m_Path: Armature/arm.R.008/arm.R.008_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.009
+    m_Weight: 1
+  - m_Path: Armature/arm.R.009/arm.R.009_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.010
+    m_Weight: 1
+  - m_Path: Armature/arm.R.010/arm.R.010_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.011
+    m_Weight: 1
+  - m_Path: Armature/arm.R.011/arm.R.011_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.012
+    m_Weight: 1
+  - m_Path: Armature/arm.R.012/arm.R.012_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.013
+    m_Weight: 1
+  - m_Path: Armature/arm.R.013/arm.R.013_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.014
+    m_Weight: 1
+  - m_Path: Armature/arm.R.014/arm.R.014_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.015
+    m_Weight: 1
+  - m_Path: Armature/arm.R.015/arm.R.015_end
+    m_Weight: 1
+  - m_Path: Armature/arm.R.016
+    m_Weight: 1
+  - m_Path: Armature/arm.R.016/arm.R.016_end
+    m_Weight: 1
+  - m_Path: Armature/Bone.008
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.009
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.009/Bone.009_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.010
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.010/Bone.010_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.011
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.011/Bone.011_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.013
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.013/Bone.013_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.004
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.004/Bone.004_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.005
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.005/Bone.005_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.006
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.006/Bone.006_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.007
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.014/Bone.007/Bone.007_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone/Bone_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone.001
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone.001/Bone.001_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone.002
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone.002/Bone.002_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone.003
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Bone.015/Bone.003/Bone.003_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/cover.L
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/cover.L/cover.L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/cover.R
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/cover.R/cover.R_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L/arm.L
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L/arm.L/hand.L
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L/arm.L/hand.L/HandClawBottom.L
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L/arm.L/hand.L/HandClawBottom.L/HandClawBottom.L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L/arm.L/hand.L/HandClawTop.L
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.L/arm.L/hand.L/HandClawTop.L/HandClawTop.L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R
+    m_Weight: 1
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R/arm.R
+    m_Weight: 1
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R/arm.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R/arm.R/hand.R/HandClawBottom.R
+    m_Weight: 1
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R/arm.R/hand.R/HandClawBottom.R/HandClawBottom.R_end
+    m_Weight: 1
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R/arm.R/hand.R/HandClawTop.R
+    m_Weight: 1
+  - m_Path: Armature/Bone.008/Bone.012/Shoulder.R/arm.R/hand.R/HandClawTop.R/HandClawTop.R_end
+    m_Weight: 1
+  - m_Path: Armature/IK.L
+    m_Weight: 0
+  - m_Path: Armature/IK.L/IK.L_end
+    m_Weight: 0
+  - m_Path: Armature/IK.R
+    m_Weight: 1
+  - m_Path: Armature/IK.R/IK.R_end
+    m_Weight: 1
+  - m_Path: brush speen
+    m_Weight: 0
+  - m_Path: brush speen.001
+    m_Weight: 0
+  - m_Path: Cube.001
+    m_Weight: 0
+  - m_Path: Cube.002
+    m_Weight: 0
+  - m_Path: Cube.003
+    m_Weight: 0
+  - m_Path: Cube.004
+    m_Weight: 0
+  - m_Path: Cube.005
+    m_Weight: 0
+  - m_Path: Cube.006
+    m_Weight: 0
+  - m_Path: Cube.007
+    m_Weight: 0
+  - m_Path: Cube.008
+    m_Weight: 0
+  - m_Path: Cylinder
+    m_Weight: 0
+  - m_Path: Cylinder.001
+    m_Weight: 0
+  - m_Path: Cylinder.002
+    m_Weight: 0
+  - m_Path: Cylinder.003
+    m_Weight: 0
+  - m_Path: Cylinder.005
+    m_Weight: 0
+  - m_Path: Cylinder.007
+    m_Weight: 0
+  - m_Path: Cylinder.008
+    m_Weight: 0
+  - m_Path: eyes
+    m_Weight: 0
+  - m_Path: face (LCD).001
+    m_Weight: 0
+  - m_Path: half cylinder sharp
+    m_Weight: 0
+  - m_Path: half cylinder sharp.001
+    m_Weight: 0
+  - m_Path: Plane.003
+    m_Weight: 0
+  - m_Path: round
+    m_Weight: 0
+  - m_Path: wheels
+    m_Weight: 0
